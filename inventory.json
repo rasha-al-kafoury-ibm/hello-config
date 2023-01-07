@@ -1,15 +1,15 @@
 {
-  "repository_url": "https://github.com/liwang2017/hello-tekton.git",
-  "artifact": "au.icr.io/lily_kube_namespace/hello-tekton",
+  "repository_url": "https://github.com/rasha-al-kafoury-ibm/hello-tekton.git",
+  "artifact": "de.icr.io/my-reg/hello-containers-tekton",
   "build_number": 2,
   "commit_sha": "40009de35f43b46d396e9e4612a23da95aa1dcf1",
   "name": "hello-tekton",
   "pipeline_run_id": "819b84fc-43db-4968-a9de-b743544504a3",
   "version": "v1",
   "signature": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33",
-  "REGISTRY_URL": "au.icr.io",
-  "REGISTRY_NAMESPACE": "lily_kube_namespace",
-  "IMAGE_NAME": "hello-tekton",
+  "REGISTRY_URL": "de.icr.io",
+  "REGISTRY_NAMESPACE": "my-reg",
+  "IMAGE_NAME": "hello-containers-tekton",
   "IMAGE_TAGS": "2-master-40009de3-20221122033817",
   "IMAGE_MANIFEST_SHA": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33"
 }
