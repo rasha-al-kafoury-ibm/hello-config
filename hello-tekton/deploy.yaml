@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: hello-app
-        image: de.icr.io/my-reg/hello-tekton:10-master-88512cc4-20230107192103
+        image: de.icr.io/my-reg/hello-tekton:11-master-88512cc4-20230107193916
         ports:
         - containerPort: 8080
       imagePullSecrets:
