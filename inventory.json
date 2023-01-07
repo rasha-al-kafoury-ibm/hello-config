@@ -9,7 +9,7 @@
   "signature": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33",
   "REGISTRY_URL": "de.icr.io",
   "REGISTRY_NAMESPACE": "my-reg",
-  "IMAGE_NAME": "hello-containers-tekton",
+  "IMAGE_NAME": "hello-tekton",
   "IMAGE_TAGS": "2-master-40009de3-20221122033817",
   "IMAGE_MANIFEST_SHA": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33"
 }
