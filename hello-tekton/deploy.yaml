@@ -18,7 +18,7 @@ spec:
         ports:
         - containerPort: 8080
       imagePullSecrets:
-        - name: dev-registry-secret        
+        - name: registry-secret        
 ---
 apiVersion: v1
 kind: Service
