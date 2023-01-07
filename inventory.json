@@ -1,15 +1,15 @@
 {
   "repository_url": "https://github.com/rasha-al-kafoury-ibm/hello-tekton",
   "artifact": "de.icr.io/my-reg/hello-tekton",
-  "build_number": 8,
+  "build_number": 9,
   "commit_sha": "88512cc483d96b5acb07ede50f770e57c9b4f4f1",
   "name": "hello-tekton",
-  "pipeline_run_id": "7eba1a79-8130-449f-a669-90930cda8205",
+  "pipeline_run_id": "7867a89d-6a2c-4ced-9f48-80f527cf792c",
   "version": "v1",
-  "signature": "sha256:9415e4e3a7aa830103570b1c2b577d02323bc8b285eed4bd73967ec78b76624b",
+  "signature": "sha256:d05d8bda05e55000cd786870f39e922160568fa7eb56a6b4219a70ae77636bad",
   "REGISTRY_URL": "de.icr.io",
   "REGISTRY_NAMESPACE": "my-reg",
   "IMAGE_NAME": "hello-tekton",
-  "IMAGE_TAGS": "8-master-88512cc4-20230107185256",
-  "IMAGE_MANIFEST_SHA": "sha256:9415e4e3a7aa830103570b1c2b577d02323bc8b285eed4bd73967ec78b76624b"
+  "IMAGE_TAGS": "9-master-88512cc4-20230107185834",
+  "IMAGE_MANIFEST_SHA": "sha256:d05d8bda05e55000cd786870f39e922160568fa7eb56a6b4219a70ae77636bad"
 }
