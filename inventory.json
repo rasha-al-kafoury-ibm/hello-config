@@ -1,15 +1,15 @@
 {
-  "repository_url": "https://github.com/rasha-al-kafoury-ibm/hello-tekton.git",
-  "artifact": "de.icr.io/my-reg/hello-containers-tekton",
-  "build_number": 2,
-  "commit_sha": "40009de35f43b46d396e9e4612a23da95aa1dcf1",
+  "repository_url": "https://github.com/rasha-al-kafoury-ibm/hello-tekton",
+  "artifact": "de.icr.io/my-reg/hello-tekton",
+  "build_number": 5,
+  "commit_sha": "88512cc483d96b5acb07ede50f770e57c9b4f4f1",
   "name": "hello-tekton",
-  "pipeline_run_id": "819b84fc-43db-4968-a9de-b743544504a3",
+  "pipeline_run_id": "92919f6e-06b9-4faf-a994-438d3c11e42c",
   "version": "v1",
-  "signature": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33",
+  "signature": "sha256:e3afe883c534368f99a2382b240d6a2404f14c6354e56357250443be07c78f95",
   "REGISTRY_URL": "de.icr.io",
   "REGISTRY_NAMESPACE": "my-reg",
   "IMAGE_NAME": "hello-tekton",
-  "IMAGE_TAGS": "2-master-40009de3-20221122033817",
-  "IMAGE_MANIFEST_SHA": "sha256:f353d471b3e2a0e7cf358ad7f59566b23708b903ba2d32e6bd60f64fa0366d33"
+  "IMAGE_TAGS": "5-master-88512cc4-20230107174948",
+  "IMAGE_MANIFEST_SHA": "sha256:e3afe883c534368f99a2382b240d6a2404f14c6354e56357250443be07c78f95"
 }
