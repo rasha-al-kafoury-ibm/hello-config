@@ -13,8 +13,8 @@ spec:
         app: hello-app
     spec:
       containers:
-      - name: hello-app
-        image: de.icr.io/my-reg/hello-tekton:6-master-88512cc4-20230107183318
+       - name: hello-app
+         image: de.icr.io/my-reg/hello-tekton:6-master-88512cc4-20230107183318
       imagePullSecrets:
         - name: registry-secret        
         ports:
